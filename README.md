@@ -18,3 +18,9 @@ Provided with this assigmment the following souce files:
 3. *NodeDequeu.java*: this is a class that represents a node-based implementation of a deque. Unless specified otherwise, you are required to write the implementation of all methods inside this class.
 4. *NodeIterator.java*: this is a class taht represents an iterator object for a deque. You are required to write the implementation of all methods inside this class.
 5. *NodeDequeTest.java*: this is junit test class with 15 tests (do not modify this test). 
+
+Suggested approach for completing the assignment:
+1. First, implement *addFirst(item)* and *addLast(item)* methods in *NodeDequeu.java* to pass tests 1-6.
+2. Second, implement *removeFirst()* method in *NodeDequeu.java* to pass tests 7-8.
+3. Third, implement *removeLast()* method in *NodeDequeu.java* to pass tests 9-12.
+4. Finally, implement all methods in *NodeIterator.java* and *iterator()* method in *NodeDequeu.java* to pass tests 13-15.
