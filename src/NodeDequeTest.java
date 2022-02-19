@@ -1,3 +1,6 @@
+/**
+* Do not modify this class
+*/
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.Test;
